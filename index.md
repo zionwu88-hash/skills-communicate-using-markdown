@@ -19,6 +19,16 @@ Here is a simple Python example that prints a message:
 
 ```python
 print("Hello, Zion Wu!")
+## ✅ My Task List
+
+Here are my Markdown learning goals:
+
+- [x] Add headers to my Markdown file  
+- [x] Add an image with alt text  
+- [x] Add a code example  
+- [ ] Create a task list  
+Added a task list
+
 
 
 
