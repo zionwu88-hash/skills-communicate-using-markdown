@@ -19,6 +19,7 @@ Here is a simple Python example that prints a message:
 
 ```python
 print("Hello, Zion Wu!")
+
 ## ✅ My Task List
 
 Here are my Markdown learning goals:
@@ -28,6 +29,7 @@ Here are my Markdown learning goals:
 - [x] Add a code example  
 - [ ] Create a task list  
 Added a task list
+
 
 
 
