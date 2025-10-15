@@ -13,5 +13,12 @@
 [My GitHub Profile](https://github.com/Z1onWu)
 ## 🖼️ My Image Example
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+## 💻 Code Example
+
+Here is a simple Python example that prints a message:
+
+```python
+print("Hello, Zion Wu!")
+
 
 
