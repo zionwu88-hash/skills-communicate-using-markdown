@@ -11,4 +11,7 @@
 
 ## 🌐 Links
 [My GitHub Profile](https://github.com/Z1onWu)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+## 🖼️ My Image Example
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
